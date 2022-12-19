@@ -15,8 +15,7 @@ If I could improve a component of the DriverPass documentation, I would improve 
 
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
-
-
+I followed the SDLC and the different phases to interpret the user's needs. I started with requirement determination and progressed from there.
 
 # How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
